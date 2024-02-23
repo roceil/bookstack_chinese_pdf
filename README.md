@@ -43,4 +43,4 @@ WKHTMLTOPDF=/bin/wkhtmltopdf
 ## 使用
 
 您現在可以通過訪問 `http://localhost:6875` 來使用 BookStack 了。如果您在步驟 2 中更改了地址，請使用您指定的地址。
-# bookstack_chinese_pdf
+
